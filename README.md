@@ -1,4 +1,4 @@
-# Crud with Multiple Login
+# Crud with Multiple User Login
 ## _Login Register CRUD Laravel 10_
 
 ## Features
@@ -39,8 +39,7 @@ run php artisan serve <br>
 open link at your browser
 http://127.0.0.1:8000
 
-## Demo Link
-https://login-register-crud-laravel.andisdev.tech/
+
 
 
 
